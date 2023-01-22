@@ -1,0 +1,6 @@
+{
+    "scripts": {
+      "build": "cypress run --config-file=./cypress.config.js"
+    }
+  }
+  
